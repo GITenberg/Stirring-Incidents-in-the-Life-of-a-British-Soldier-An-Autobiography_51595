@@ -1,0 +1,24 @@
+_repo: Stirring-Incidents-in-the-Life-of-a-British-Soldier-An-Autobiography_51595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Faughnan, Thomas, active 1835-1883
+    gutenberg_agent_id: '46481'
+    url: http://www.gutenberg.org/2009/agents/46481
+description: ''
+gutenberg_issued: '2016-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Faughnan, Thomas, active 1835-1883'
+- !lcsh 'Great Britain -- History, Military -- 19th century'
+- !lcsh 'Crimean War, 1853-1856 -- Personal narratives'
+- GITenberg
+title: 'Stirring Incidents in the Life of a British Soldier: An Autobiography'
+url: http://www.gutenberg.org/ebooks/51595
