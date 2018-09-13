@@ -1,11 +1,16 @@
 _repo: Stirring-Incidents-in-the-Life-of-a-British-Soldier-An-Autobiography_51595
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51595-h/images/front-cover.jpg
 creator:
   author:
     agent_name: Faughnan, Thomas, active 1835-1883
     gutenberg_agent_id: '46481'
     url: http://www.gutenberg.org/2009/agents/46481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51595#Stirring-Incidents-in-the-Life-of-a-British-Soldier-An-Autobiography
 gutenberg_issued: '2016-03-29'
 gutenberg_type: Text
 identifiers:
